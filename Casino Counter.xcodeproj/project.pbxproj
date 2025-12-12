@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 860113152EEC3FDD009EA450 /* Build configuration list for PBXProject "Probability Calc" */;
+			buildConfigurationList = 860113152EEC3FDD009EA450 /* Build configuration list for PBXProject "Casino Counter" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -398,7 +398,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Probability Calc/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Probability Calc";
+				INFOPLIST_KEY_CFBundleDisplayName = "Casino Counter";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -432,7 +432,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Probability Calc/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Probability Calc";
+				INFOPLIST_KEY_CFBundleDisplayName = "Casino Counter";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -527,7 +527,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		860113152EEC3FDD009EA450 /* Build configuration list for PBXProject "Probability Calc" */ = {
+		860113152EEC3FDD009EA450 /* Build configuration list for PBXProject "Casino Counter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8601133C2EEC3FDE009EA450 /* Debug */,
