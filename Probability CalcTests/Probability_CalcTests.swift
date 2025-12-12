@@ -1,10 +1,3 @@
-//
-//  Probability_CalcTests.swift
-//  Probability CalcTests
-//
-//  Created by Артём Коротков on 12.12.2025.
-//
-
 import XCTest
 @testable import Probability_Calc
 
